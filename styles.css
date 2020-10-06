@@ -1,0 +1,177 @@
+body {
+background: url('http://papers.co/wallpaper/papers.co-sd50-shiny-sky-sunshine-gradation-blur-27-wallpaper.jpg') !important;
+background-size: 100% 100% !important;
+background-position: center top !important;
+background-repeat: no-repeat !important;
+-webkit-background-size: cover !important;
+-moz-background-size: cover !important;
+-o-background-size: cover !important;
+background-size: cover !important;
+overflow:hidden !important; /*nosidescrollbar*/
+}
+
+html{
+  height:auto !important;
+}
+
+.gwt-PopupPanel, .countdownPopup, .horizontalCountdownPopup{
+  height: 60px !important;
+  top: 40px !important;
+  left: 750px !important;
+}
+
+
+
+
+
+
+
+
+.mainMenu{
+color: rgba(255, 255, 255, 0.72) !important;
+}
+
+p, .nameContainer, .rankPanelWpm, rankPanelWpm rankPanelWpm-self, #rankPanelWpm rankPanelWpm-self{
+font-size: 0.1px !important;
+}
+
+.newNorthWidget, .newEastWidget,  .newSouthWidget, .newWestWidget, .footer, .navigation, trPopupDialog practiceViewScoresPopup, .trPopupDialog practiceViewScoresPopup, practiceViewScoresPopup, .practiceViewScoresPopup, .DialogBox trPopupDialog practiceViewScoresPopup, DialogBox trPopupDialog practiceViewScoresPopup, .renderBannerAd, .title, #hostpageBannerAds, .adblockWarning, #tr_textHeader,   .mainMenuAdUnit,  .InstaGibPopup, .gwt-TabBarItem, .highScoresFooter, .StatsTable, .gwt-TabBarRest, .gwt-TabBarRest-wrapper, .gwt-TabBarFirst, .statsView, .textInfoHeader, .remainingChars, .TextDisplay TypingDisplaySection, .acceptedChars, .lblSectionHeading, .lblStatusIndicator,  .room-title, .ImageButtonWithText, .gwt-InlineHTML, .gwt-InlineLabel, .gameStatusLabel, .header,   .tr_notice_translators_wanted,  .rank, .gwt-HTML productImage, .textInfoTitle, .textInfoAuthor, .ScoreMenuButton, .productImage, .SignUpPromptPopup, .TypingLogReplayPlayer, .progressBar, .imgHelp,
+ .wpmInfoPopup, .skillLevelInfoPopup, .WordsViewPrefPopup, .helpPopup, .arrowPopup arrowPopup-start, 
+.arrowPopupText arrowPopupTextOneLine, .arrowPopupTextOneLine, .arrowPopup arrowPopup-error, .arrowPopup, .arrowPopup-error, .typoAlertPopup, .DemoteSkillLevelPopup, .UserInfoContextMenu
+{
+opacity:0;
+content:none !important;
+position: absolute !important;
+top: 0px !important; 
+left: -9999px !important;
+max-width: 0px !important;
+border: 0px !important;
+padding: 0px !important;
+display: none !important;
+display: none !important;
+}
+
+.trPopupDialog{
+ background: url(http://www.powerpointhintergrund.com/uploads/blurry-background-25.jpg) !important;
+}
+
+.scoreboard .row .progressBar {
+background-color: rgba(121, 121, 121, 0.26) !important;
+border-bottom-style:none !important;
+border-color: none !important;
+margin-top: 0px !important;
+}
+
+avatar avatar-self{
+display: inherit;
+}
+
+#tstats:first-line{
+color: white;
+background-color:black;   
+}
+#tstats:hover{
+background-color:black;   
+}
+
+.mainUserInfoBox{
+color: lightblue;
+}
+
+.mainUserInfoBoxWpm{
+color: lightgreen;
+}
+
+*{
+text-decoration: none;
+}
+
+.mainMenuItem-highlighted img{
+background: url(http://files.gamebanana.com/img/ico/sprays/5509689334918.png) !important;
+background-size: 80px 60px !important;
+background-repeat: no-repeat !important; 
+background-size: cover  !important;
+}
+
+.mainMenuItem-highlighted img:hover{
+background: url(https://i.pinimg.com/originals/fc/b3/bf/fcb3bfb462620419a468951c79e9746c.png) !important;
+background-size: 60px 40px !important;
+background-repeat: no-repeat !important; 
+background-size: cover  !important;
+}
+
+.txtInput{
+border-radius: 25px !important;
+}
+
+.rankPanelWpm-self:first-line {
+opacity:0;
+content:none !important;
+position: absolute !important;
+top: 0px !important; 
+left: -9999px !important;
+max-width: 0px !important;
+border: 0px !important;
+padding: 0px !important;
+display: none !important;
+display: none !important;
+}
+
+.MainUserInfoEditor img{
+background: url(https://vignette.wikia.nocookie.net/mario/images/5/5e/Super_mario_animated_cursor.png/revision/latest?cb=20161111230024) !important;
+background-repeat: no-repeat !important; 
+background-size: cover  !important;
+}
+
+.mainMenuItem-secondary img{
+background: url(http://icons.iconarchive.com/icons/ph03nyx/super-mario/128/Retro-Mushroom-Super-3-icon.png) !important;
+background-repeat: no-repeat !important; 
+background-size: cover  !important;
+}
+
+.main{
+background: url('') !important;
+background-repeat: no-repeat !important;
+background-size:100% !important;
+}
+
+.mainMenuItem-secondary:hover img{
+background: url(http://vignette2.wikia.nocookie.net/unmario/images/b/b6/360_mario_spin_rnder.gif/revision/latest?cb=20090713210437) !important;
+background-repeat: no-repeat !important; 
+background-size: cover  !important;
+}
+
+/*wpm disabled*/
+.tblOwnStatsNumber:first-line{
+font-size:56px !important;}
+.rankPanelWpm-self{
+position:absolute !important;
+left: 780px !important;
+margin:-170px 0px 920px 0px !important;
+}
+.container{
+/*Wensite Icon top left corner:
+background-image: url(https://cdn.drawception.com/images/panels/2012/4-12/jFLEDH7Z7P-4.png) !important;*/
+background-size: 0px !important;
+background-repeat: no-repeat !important;
+}
+/*comment or uncomment below to disable animation*/
+/*
+@-moz-keyframes spin { 100% { -moz-transform: rotate(360deg); } }
+@-webkit-keyframes spin { 100% { -webkit-transform: rotate(360deg); } }
+@keyframes spin { 100% { -webkit-transform: rotate(360deg); transform:rotate(360deg); } }
+
+.ImageButton{
+      -webkit-animation:spin 3s !important;
+    -moz-animation:spin 3s linear !important;
+    animation:spin 3s linear !important;
+      position: relative !important;
+    animation-timing-function: ease!important;
+}
+*/
+/*progressbar cars are marios if remove .progressBar removal
+.scoreboard img{
+background: url(http://www.chip.de/ii/5/0/9/6/7/6/0/9/98da3cb2f76e0cf7.jpg) !important;
+width: 50% !important;
+height: 50% !important;
+}*/

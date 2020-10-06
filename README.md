@@ -1,5 +1,5 @@
-# typeracer-browser-extension
-Minimalistic Userinterface, no ads, no pop ups, no distraction.
+# TyperacerMinimalistic, hide ads & popups. My 1st extension I made out of boredom, enjoy.
 
-![Preview](browserextension.png)
-Website preview before/after
+About extensions: https://blog.lateral.io/2016/04/create-chrome-extension-modify-websites-html-css/
+
+FIX: add webpermissionsblocker permission and block redirect ad in website.
